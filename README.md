@@ -1,4 +1,4 @@
-new loot tables include:
+New loot tables include:
 
 Allay - Amethyst, rarely music discs not found in trail ruins.
 Armadillo - Armadillo scutes.
@@ -14,4 +14,4 @@ Villager - Emeralds and farmed foods.
 Vindicator - Increased emerald rates.
 Zoglin - Leather.
 
-let me know if i should add others
+Let me know if I should add others.
