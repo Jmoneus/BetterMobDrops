@@ -32,5 +32,6 @@ Zoglin - Leather, rotten flesh.
 
 Jungle Leaves - Fixed sapling drop rate.
 
+Works on minecraft versions 1.21.2 and newer
 
 Let me know if I should add others.
