@@ -23,6 +23,6 @@ V - 0.2.1
 Works on Minecraft versions 1.21.2 and newer
 
 Inlcudes files to have membrane drops from bats and player heads to always have a chance to drop
-See README.md
+See README.md in pack folder
 
 Please let me know if you think other mobs are missing out on item drops
